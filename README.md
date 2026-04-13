@@ -28,10 +28,6 @@ This project demonstrates how data visualization can improve business decision-m
 
 🔷 6. ADD SCREENSHOT (IMPORTANT)
 
-👉 Upload your dashboard image as:
+👉 Upload your dashboard image as
 
-dashboard.png
 
-Then in README:
-
-![Dashboard](dashboard.png)
