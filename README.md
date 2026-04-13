@@ -24,10 +24,6 @@ Highlights productivity gaps
 
 This project demonstrates how data visualization can improve business decision-making.
 
-👉 Click Commit Changes
 
-🔷 6. ADD SCREENSHOT (IMPORTANT)
-
-👉 Upload your dashboard image 
 
 
