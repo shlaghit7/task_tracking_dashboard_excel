@@ -21,6 +21,8 @@ Data visualization
 Performance analysis
 🔹 Dashboard Preview
 
+<img width="1938" height="1048" alt="2026-04-13 (14)" src="https://github.com/user-attachments/assets/d1eae6c5-d136-4eb1-baa9-3ddcf0fec6aa" />
+
 🔹 Key Insights
 Identifies delayed tasks
 Tracks employee performance
