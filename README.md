@@ -27,6 +27,8 @@ Tracks employee performance
 Highlights productivity gaps
 🔹 Conclusion
 This project demonstrates how data visualization can improve business decision-making.
+Dashboard view
+<img width="1920" height="1080" alt="2026-04-14" src="https://github.com/user-attachments/assets/bd65954a-c729-40cc-a68b-2a0d62735ca2" />
 
 
 
